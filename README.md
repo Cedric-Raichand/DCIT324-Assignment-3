@@ -37,7 +37,7 @@ The application demonstrates reusable components, props, state management, navig
 ## Project Structure
 
 ```text
-ShopEase/
+DCIT324-Ecoomerce-Assignment/
 │
 ├── assets/
 │   └── images/
