@@ -37,7 +37,7 @@ The application demonstrates reusable components, props, state management, navig
 ## Project Structure
 
 ```text
-DCIT324-Ecoomerce-Assignment/
+DCIT324-Ecommerce-Assignment/
 │
 ├── assets/
 │   └── images/
